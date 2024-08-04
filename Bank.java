@@ -1,4 +1,4 @@
-package LLD;
+package Bank_LLD;
 import java.util.*;
 
 public class Bank {
